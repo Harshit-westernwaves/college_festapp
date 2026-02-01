@@ -22,13 +22,6 @@ Designed with a focus on user experience and a futuristic **Dark Mode & Neon** a
 * **📍 Campus Navigation:** Integrated map to help attendees find venues, food stalls, and help desks.
 * **🔔 Real-Time Updates:** Push notifications for schedule changes, flash mobs, or announcements.
 
-## 🛠️ Tech Stack
-
-* **Frontend:** [e.g., Flutter / React Native / Kotlin]
-* **Backend:** [e.g., Firebase / Node.js / Django]
-* **Design:** [e.g., Figma / Adobe XD]
-* **Database:** [e.g., Firestore / MongoDB]
-
 ## 🚀 Getting Started
 
 To run this project locally, follow these steps:
