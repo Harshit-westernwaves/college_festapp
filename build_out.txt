@@ -1,0 +1,101 @@
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:mergeDebugNativeLibs NO-SOURCE
+> Task :app:stripDebugDebugSymbols NO-SOURCE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+
+> Task :app:compileDebugKotlin FAILED
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:45:25 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:65:41 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:71:37 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:76:37 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:87:32 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:96:25 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:101:25 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:114:33 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:142:45 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:147:48 Unresolved reference: ContentScale
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:159:44 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:198:45 Unresolved reference: ContentScale
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:207:37 Unresolved reference: Brush
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:209:45 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:210:45 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:227:41 Unresolved reference: Brush
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:229:49 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:230:49 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:238:45 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:248:41 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:257:41 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:269:29 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:283:41 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:289:36 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:296:33 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:311:33 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:317:33 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:342:33 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:364:33 Unresolved reference: Brush
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:365:37 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:365:56 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:366:64 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:371:9 None of the following functions can be called with the arguments supplied: 
+public fun Text(text: AnnotatedString, modifier: Modifier = ..., color: Color = ..., fontSize: TextUnit = ..., fontStyle: FontStyle? = ..., fontWeight: FontWeight? = ..., fontFamily: FontFamily? = ..., letterSpacing: TextUnit = ..., textDecoration: TextDecoration? = ..., textAlign: TextAlign? = ..., lineHeight: TextUnit = ..., overflow: TextOverflow = ..., softWrap: Boolean = ..., maxLines: Int = ..., minLines: Int = ..., inlineContent: Map<String, InlineTextContent> = ..., onTextLayout: (TextLayoutResult) -> Unit = ..., style: TextStyle = ...): Unit defined in androidx.compose.material3
+public fun Text(text: String, modifier: Modifier = ..., color: Color = ..., fontSize: TextUnit = ..., fontStyle: FontStyle? = ..., fontWeight: FontWeight? = ..., fontFamily: FontFamily? = ..., letterSpacing: TextUnit = ..., textDecoration: TextDecoration? = ..., textAlign: TextAlign? = ..., lineHeight: TextUnit = ..., overflow: TextOverflow = ..., softWrap: Boolean = ..., maxLines: Int = ..., minLines: Int = ..., onTextLayout: (TextLayoutResult) -> Unit = ..., style: TextStyle = ...): Unit defined in androidx.compose.material3
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:373:37 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:373:54 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:387:59 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:393:22 Unresolved reference: Brush
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:395:30 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:396:30 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:408:30 Unresolved reference: Color
+e: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/app/src/main/java/com/example/collegefestapp/ui/HomeScreen.kt:414:30 Unresolved reference: Color
+
+[Incubating] Problems report is available at: file:///C:/Users/jagde/OneDrive/Desktop/GIT-Harshit/college_festapp/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.13/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 4s
+26 actionable tasks: 2 executed, 24 up-to-date
